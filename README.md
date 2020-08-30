@@ -1,2 +1,2 @@
 # InsiderSherpa
-Some projects did in InsiderSherpa.
+Some projects done in InsiderSherpa.
